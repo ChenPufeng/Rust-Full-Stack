@@ -145,9 +145,16 @@ Use them if you need a personal help or need a new developer in your company.
 
 ## The current state of this repository
 
+I will update www.steadylearner.com Rust Rocket website. I knew that there was a problem with a view count update but was ignoring that. I will start after my current freelance work.
+
 I am working [while learning blockchain technologies.](https://github.com/steadylearner/ethdev-diary) There will be less updates than before. 
 
 ```console
+
+Rust
+
+* Update Steadylearner with [a new Rocket async code](https://github.com/SergioBenitez/Rocket) and share some parts of it here.
+
 Python
 
 * Transaction(Paypal, Stripe), Visa, Mastercard and Cryptocurrencies.
